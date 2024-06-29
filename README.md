@@ -1,1 +1,1 @@
-# n-code-js-2
+# goit-js-hw-07
